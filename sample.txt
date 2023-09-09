@@ -1,2 +1,1 @@
-
-Sample fi
+Sample file in feature changes
